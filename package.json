@@ -22,7 +22,7 @@
 		"@vue/eslint-config-prettier": "^7.0.0",
 		"eslint": "^8.5.0",
 		"eslint-plugin-vue": "^9.0.0",
-		"json-server": "^0.17.0",
+		"json-server": "^0.17.1",
 		"prettier": "^2.5.1",
 		"terser": "^5.14.2",
 		"vite": "^3.0.2"
